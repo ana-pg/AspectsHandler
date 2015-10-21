@@ -1,0 +1,8 @@
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\bin\Debug\AspectsHandler.dll
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\bin\Debug\AspectsHandler.pdb
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\bin\Debug\PostSharp.dll
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\bin\Debug\PostSharp.xml
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\bin\Debug\AspectsHandler.pssym
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\obj\Debug\AspectsHandler.dll
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\obj\Debug\AspectsHandler.pdb
+C:\Users\apg\Documents\Ana\AspectsHandler\AspectsHandler\obj\Debug\AspectsHandler.dll.postsharp
